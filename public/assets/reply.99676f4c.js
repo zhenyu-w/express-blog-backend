@@ -1,0 +1,1 @@
+import{A as r}from"./index.d7cf8a03.js";class t extends r{add(e){return this.$post("add",e)}unreviewdReplyPage(e){return this.$get("unreviewd_reply_page",e)}review(e){return this.$put("review",e)}}const s=new t("reply");export{s as r};
